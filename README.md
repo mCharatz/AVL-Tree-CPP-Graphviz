@@ -10,7 +10,7 @@ This is a project to implement AVL-Tree in C++ using Graphviz to visualize the t
 ## How to Run it
 ```sh
 $ cd AVL-Tree-CPP-Graphviz
-$ make all                          Compile Graphviz is required
+$ make all                          Compile, Graphviz is required
 $ make run
 $ make PNG                          Creates PNGs of trees in png directory  (optional)
 $ make clean                        Reset directory
