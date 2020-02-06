@@ -15,3 +15,6 @@ $ make run
 $ make PNG                          Creates PNGs of trees in png directory  (optional)
 $ make clean                        Reset directory
 ```
+## Notes
+    $ make run
+Runs 10 test cases , the output after every insertion or deletion is located in "out" directory
