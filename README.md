@@ -17,4 +17,4 @@ $ make clean                        Reset directory
 ```
 ## Notes
     $ make run
-Runs 10 test cases , the output after every insertion or deletion is located in "out" directory
+Runs 10 test cases , the output after every action is located in "out" directory
